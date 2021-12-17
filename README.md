@@ -1,0 +1,1 @@
+The task is to build a function that will return the circumference of a circle from a given radius. The radius is the number the user inputs into the text field. If the input is Nan (Not a Number), the return will be "You need to type a number!". 
